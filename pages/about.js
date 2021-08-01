@@ -12,7 +12,7 @@ export default function About() {
 
       <main>
         <Header title='About page' />
-        <p className='description'>About page</p>
+        <p className='description'>About pages</p>
       </main>
 
       <Footer />
